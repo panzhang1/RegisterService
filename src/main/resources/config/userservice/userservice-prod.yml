@@ -1,2 +1,1 @@
-user.server: "http://localhost"
-user.port: "8080"
+user_endpoint: "http://bizxconfigserver/user/"
