@@ -1,1 +1,2 @@
 user_endpoint: "http://bizxconfigserver/user/"
+user_version: GA
