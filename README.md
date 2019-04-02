@@ -1,6 +1,6 @@
-# PanGu Config
+# Register Service
 This is pan zhang's practice project for micoservice
 Build a config server, this can be a common service used by multiple service
 
-## PanGu Service Config
-http://localhost:8888/pangu/default
+## Register Service
+http://localhost:8761/eureka/apps
